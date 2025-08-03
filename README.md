@@ -1,9 +1,6 @@
 # DAY-----58-----Core-and-Hard-Graph-Data-Structure
 
 📂 Repository Structure:
-sql
-Copy
-Edit
 📂 DSA-Java-Core-Graph
  ┣ 📂 Day-54-Heaps
  ┃ ┗ 📄 PriorityQueueExample.java
